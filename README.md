@@ -1,7 +1,7 @@
 <h1 align="center">Fullstack & Senior Blockchain Specialist</h1>
 
 ## Hi there! :smile: 
-This is Davincci, nice to meet you.
+This is Davincci, nice to meet you.<br>
 Problem-solving software engineer with team-oriented attitude, excellent communication and organizational skills.<br>
 Strong decision maker with more than 15 years of experience in software engineering and Blockchain development. <br>
 Considered effective coach and mentor and committed to leading exceptionally gifted teams. <br>
@@ -16,7 +16,7 @@ Ready to work closely with both teams and customers to identify most efficient a
 :heavy_check_mark: Fork experience in DeFi protocols such as Uniswap, Sushiswap, Pancakeswap, GooseDefi, 1inch<br>
 :heavy_check_mark: Good experience in NFT Marketplaces such as Opensea.io, Rarible<br>
 
-### My projects :star2:
+### My Projects :star2:
 [QuizDrop](https://quizdrop.net/)<br>
 [MicroPets](https://micropets.io/)<br>
 [GatherSwap](https://gatherswap.netlify.app/swap/)<br>
