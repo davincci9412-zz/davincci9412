@@ -17,7 +17,8 @@ Ready to work closely with both teams and customers to identify most efficient a
 :heavy_check_mark: Good experience in NFT Marketplaces such as Opensea.io, Rarible<br>
 
 ### My Projects :star2:
-[QuizDrop](https://quizdrop.net/)<br>
+[AnjiSwap](https://app.anji.eco/swap?token=ANJI)<br>
+[QuizDrop](https://play.quizdrop.net/)<br>
 [MicroPets](https://micropets.io/)<br>
 [GatherSwap](https://gatherswap.netlify.app/swap/)<br>
 [Avenger](https://avenger-coin.vercel.app)<br>
